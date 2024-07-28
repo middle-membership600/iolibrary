@@ -1,6 +1,6 @@
 # CS 61 Class Project: Enhanced Synchronization for Reading and Writing Library
 
-In this project, completed as a part of the CS 61 class, we have successfully implemented an advanced synchronization mechanism on a self-coded reading and writing library, which notably outperforms the standard `stdio` library. This achievement is grounded in the strategic use of locking mechanisms and optimization techniques such as caching, seeking, and flushing.
+In this project, completed as a part of the CS 61 class, I have successfully implemented an advanced synchronization mechanism on a self-coded reading and writing library, which notably outperforms the standard `stdio` library. I acheived this through the strategic use of locking mechanisms and optimization techniques such as caching, seeking, and flushing.
 
 ## Features
 
@@ -15,7 +15,7 @@ We have incorporated caching, seeking, and flushing functionalities to further o
 
 ## Extra Credit Phase 4: Integration with Pset 6 Functions
 
-In the extra credit phase 4 of the project, we have successfully integrated the IO61 library developed in Pset 4 with the functions outlined in Pset 6, enhancing the library's capabilities and functionalities. The integrated functions include:
+In the extra credit phase 4 of the project, I have successfully integrated the IO61 library developed in Pset 4 with the functions outlined in Pset 6, enhancing the library's capabilities and functionalities. The integrated functions include:
 
 - `write`: A function to facilitate writing operations.
 - `writec`: A function designed to write characters.
